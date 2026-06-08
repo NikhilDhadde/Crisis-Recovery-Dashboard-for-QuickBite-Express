@@ -33,18 +33,14 @@ Management needs visibility into customer retention and recovery performance to 
 - Analyze customer recovery trends
 - Support executive decision-making through KPI reporting
 
-## Objectives
-
-- Measure customer retention during the crisis
-- Identify lost customers
-- Track new customer acquisition
-- Analyze customer recovery trends
-- Support executive decision-making through KPI reporting
-
 
 ### Executive Summary
 
 Provides a high-level overview of customer activity and recovery KPIs.
+
+## Executive Summary
+
+![Overall Dashboard](Overall.png)
 
 ### Customer Trend Analysis
 
