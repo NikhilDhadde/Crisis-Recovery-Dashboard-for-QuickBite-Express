@@ -162,4 +162,11 @@ The solution follows a star schema approach with fact and dimension tables to su
 
 MIS Analyst with experience in SQL, Excel, Google Sheets, AWS Athena, Power BI, and Business Intelligence reporting.
 
-Interested in Data Analytics, Business Intelligence, Data Visualization, and Power BI Development.
+### Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/nikhildhadde](http://www.linkedin.com/in/nikhildhadde)
+* GitHub: https://github.com/NikhilDhadde
+* Email: [nikdhadde@gmail.com](mailto:nikdhadde@gmail.com)
+
+Interested in Data Analytics, Business Intelligence, Data Visualization, Power BI Development, and SQL-based Analytics.
+
