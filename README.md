@@ -38,7 +38,6 @@ Management needs visibility into customer retention and recovery performance to 
 
 Provides a high-level overview of customer activity and recovery KPIs.
 
-## Executive Summary
 
 ![Overall Dashboard](Overall.png)
 
@@ -84,6 +83,8 @@ Provides business recommendations to improve customer retention and accelerate r
 
 The solution follows a star schema approach with fact and dimension tables to support scalable reporting and efficient DAX calculations.
 
+![Data Model](Data Modeling.png)
+
 ## Key Insights
 
 - Customer retention declined significantly during the crisis period.
@@ -91,5 +92,10 @@ The solution follows a star schema approach with fact and dimension tables to su
 - New customer acquisition partially compensated for lost customers.
 - Retained customers remained the primary contributor to business continuity.
 - Recovery trends indicate opportunities for targeted retention campaigns.
+
+
+## Strategic Recommendations
+
+![Recommendations](Strategic Recommendations.png)
 
 
